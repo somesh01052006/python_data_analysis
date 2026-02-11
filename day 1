@@ -1,0 +1,77 @@
+# 📊 Student Data Analysis using Pandas
+
+## 📌 Project Overview
+
+This project performs a basic data analysis on a small student dataset using Python and Pandas.  
+It demonstrates fundamental data handling and exploration techniques such as viewing top records, bottom records, and checking dataset structure.
+
+This project is ideal for beginners who are learning Data Analysis with Python.
+
+---
+
+## 🛠 Technologies Used
+
+- Python
+- Pandas
+- Jupyter Notebook
+
+---
+
+## 📂 Dataset Information
+
+The dataset is manually created using a Python dictionary and converted into a Pandas DataFrame.
+
+### Columns Included:
+- **Name** – Student Name
+- **Rollnumber** – Unique roll number
+- **Grade** – Academic grade
+- **Gender** – Student gender
+
+---
+
+## 🔍 Analysis Performed
+
+The following operations were performed:
+
+- Created DataFrame from dictionary
+- Displayed full dataset
+- Viewed top record using `head()`
+- Viewed last record using `tail()`
+- Checked dataset shape using `shape`
+
+---
+
+## 🚀 How to Run This Project
+
+1. Install Python (if not installed)
+2. Install Pandas:
+3. Open the notebook:
+4. Run all cells
+
+---
+
+## 📈 Learning Outcomes
+
+- Understanding DataFrame creation
+- Basic dataset exploration
+- Using head(), tail(), and shape functions
+- Beginner-level data analysis workflow
+
+---
+
+## 👨‍💻 Author
+
+Somesh Chourasia  
+
+---
+
+## 📌 Future Improvements
+
+- Add more student records
+- Perform statistical analysis (mean, count, etc.)
+- Add data visualization using Matplotlib or Seaborn
+- Export dataset to CSV file
+
+---
+
+⭐ If you found this project useful, consider giving it a star!
